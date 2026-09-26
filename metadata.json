@@ -1,0 +1,6 @@
+{
+  "name": "Kononenko Architectural Bureau",
+  "description": "Multidisciplinary architectural and interior design bureau creating timeless spaces through the intersection of structure, light, and human experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
